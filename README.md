@@ -1,2 +1,2 @@
 # resources
-Data and information used to build assets incorporated in the Medley runtime environment
+This repository contains data and other information that feed the process of building assets incorporated in the Medley runtime environment.  This includes the externally-defined font specifications that are transformed into the Medley-format fonts distributed with the system and the XCCS-Unicode mapping files used to create the MCCS-to-Unicode tables that support the UTF-8 external format.
